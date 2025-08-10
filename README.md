@@ -14,6 +14,6 @@
 - [Movie App](#)
 
 ## 📫 Contact Me
-- Email: sandro.gvenetadze@gmail.com
+- Email: SandroGvenetadzeDev@gmail.com
 - LinkedIn: [linkedin.com/in/SandroGvenetadze](#) *(coming soon)*
 

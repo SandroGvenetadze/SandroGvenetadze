@@ -33,4 +33,33 @@ Open to **remote junior roles** and **freelance**.
 - LinkedIn: *(coming soon)*
 
 ---
+
+### 🔧 Tech Badges
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript" />
+  <img src="https://img.shields.io/badge/React-20232a?logo=react" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
+
+### 📈 GitHub Stats
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SandroGvenetadze&show_icons=true&hide_title=true"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroGvenetadze&layout=compact"
+    height="150"
+  />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SandroGvenetadze&label=Profile%20views&color=0e75b6" />
+</p>
+
+---
 _Thanks for visiting! More projects landing shortly._

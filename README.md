@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sandro 👋
 
-<!--
-**SandroGvenetadze/SandroGvenetadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Front-End Developer** passionate about building responsive, user-friendly web applications.  
+💡 Always learning and improving my skills with modern web technologies.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Git, GitHub
+- REST APIs, Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [Portfolio Website](#)
+- [Weather App](#)
+- [Movie App](#)
+
+## 📫 Contact Me
+- Email: sandro.gvenetadze@gmail.com
+- LinkedIn: [linkedin.com/in/SandroGvenetadze](#) *(coming soon)*
+
